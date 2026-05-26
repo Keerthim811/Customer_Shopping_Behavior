@@ -23,8 +23,6 @@ patterns and trends, enabling stakeholders to make data-driven decisions.
 4. GitHub Repository: Include all Python scripts, SQL queries, and dashboard files in a
 well-structured repository.
 
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/8da1b03b-ee14-4f0e-9dd6-78bbd4b4082b" />
-
 ## How to Use This Project
 
 1. Clone the repository
